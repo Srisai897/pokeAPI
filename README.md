@@ -1,11 +1,25 @@
 # PokeAPI
-## Displaying all pokemon from PokeAPI website
+## Displaying all pokemon names from PokeAPI website
 
 Pokemon data is fetched from https://pokeapi.co/api/v2/pokemon/
 
 ## create react app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## npm packages
+
+### axios 
+
+This library is used to fetch PokeAPI data from https://pokeapi.co/api/v2/pokemon/
+
+### bootstrap
+
+Bootstrap is a free, open source front-end development framework for the creation of websites and web apps.
+
+### react-bootstrap
+
+React-Bootstrap is a complete re-implementation of the Bootstrap components using React. It has no dependency on either bootstrap.js or jQuery. If you have React setup and React-Bootstrap installed, you have everything you need.
 
 ## Available Scripts
 
